@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="ind">INDIA</string>
+    <string name="sa">SA</string>
+    <string name="six">SIX!!</string>
+    <string name="four">FOUR!</string>
+    <string name="out">OUT...</string>
+    <string name="vs">VS</string>
+    <string name="share">SHARE</string>
+    <string name="winner">WINNER</string>
+    <string name="reset">RESET</string>
+</resources>
